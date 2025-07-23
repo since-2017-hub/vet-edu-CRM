@@ -1,4 +1,4 @@
-# VetEducation CRM & Email Marketing System
+# Education CRM & Email Marketing System
 
 A comprehensive Customer Relationship Management and Email Marketing system built specifically for VetEducation's course-driven, subscription-centric business model.
 
